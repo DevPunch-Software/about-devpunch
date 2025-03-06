@@ -9,10 +9,10 @@ DevPunch Software
 Innovating the Future, One Line of Code at a Time.
 
 Who We Are
-DevPunch Software is a private software engineering and development company specializing in high-impact, high-security projects for CTOs, Tech Investors, Founders, and Enterprise Leaders. We build, test, and refine software solutions that push the boundaries of technology. Some make it to global deployment, while others remain exclusive, proprietary innovations.
+- DevPunch Software is a private software engineering and development company specializing in high-impact, high-security projects for CTOs, Tech Investors, Founders, and Enterprise Leaders. We build, test, and refine software solutions that push the boundaries of technology. Some make it to global deployment, while others remain exclusive, proprietary innovations.
 
 Our Philosophy
-At DevPunch Software, we believe that innovation isn’t just about writing code, it’s about building solutions that transform industries. Unlike open-source development, our work is deeply rooted in private, confidential, and high-stakes software engineering, ensuring that intellectual property remains protected and exclusive to our clients and investors.
+- At DevPunch Software, we believe that innovation isn’t just about writing code, it’s about building solutions that transform industries. Unlike open-source development, our work is deeply rooted in private, confidential, and high-stakes software engineering, ensuring that intellectual property remains protected and exclusive to our clients and investors.
 
 What We Do
 - Bespoke Software Development – Custom-built applications tailored to unique business needs.
