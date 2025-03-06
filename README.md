@@ -1,8 +1,6 @@
 # about-devpunch
-![DevPunch Software](https://github.com/user-attachments/assets/dc05bba8-a273-4370-a29e-49492d9a4a03)
 
-
-
+![DevPunch Software-Main](https://github.com/user-attachments/assets/f93f998c-7c4f-4cc5-acf9-70bdf6003952)
 
 Building, Testing, and Innovating the Future of Software – Privately Engineered, Securely Deployed
 
